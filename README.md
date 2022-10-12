@@ -2,7 +2,7 @@
 
 2.打开git bash，按照instruction一步步输入指令
 
-3.打开VScode，选择clone repository，复制GitHub里面所创建文件的地址
+3.打开VScode，选择clone repository，复制GitHub里面所创建文件的地址，在C:\Users\18319\Source\Repos里面建立一个新的project里完成clone
 
 4.在VScode里面点击File—>New—>Project即可在里面创建我们要用的project
 
