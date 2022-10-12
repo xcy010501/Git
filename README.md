@@ -16,5 +16,6 @@ Tip：
 
 I had the same problem on the Team Explorer-Home go to settings -> repository settings-> Ignore & Attributes File -> click on add then on Team Explorer-Home-> global settings -> enable push -- force and that worked for me .
 
-注：若此project要上传于GitHub，则按照step1~5
-注：若此project不上传GitHub，则按照step3~4
+注：
+
+若此project要上传于GitHub，则按照step1~5，若此project不上传GitHub，则按照step3~4
